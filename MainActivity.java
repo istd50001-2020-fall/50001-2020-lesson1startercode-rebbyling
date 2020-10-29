@@ -4,7 +4,7 @@ package com.example.myfirstapp;
 // Copy the code below
 // Go to your own MainActivity.java and
 // paste it over the existing code BELOW the package statement ***
-// ***Sep 2019
+// ***Sep 2020
 
 import androidx.appcompat.app.AppCompatActivity;
 
