@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myfirstapp</string>
+    <string name="random_images">Random Images</string>
+    <string name="show_next_image">Show Next Image</string>
+</resources>
